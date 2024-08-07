@@ -10,9 +10,14 @@ Steps:
 
 Demo
 
+<img width="1457" alt="Screenshot 2024-08-07 at 11 15 33" src="https://github.com/user-attachments/assets/b0a86eff-fe89-4b02-92d3-f29a39c77eb3">
+
+
 Once the options are selected, users can clikc the "Formulate" button and this app will automatically design and create a workout plan using the users inputs. The workouts havedetailed instructions on how to perform each exeercise including muscles targeted, reps and tempo, as well as a tracker where users can input how many sets they have completed.
 
 Demo
+
+<img width="1462" alt="Screenshot 2024-08-07 at 11 16 16" src="https://github.com/user-attachments/assets/c6cd25a5-640b-4ba2-b95c-f0fc303a0f8f">
 
 Future features
 
