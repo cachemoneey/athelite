@@ -1,6 +1,24 @@
-# React + Vite
+# Athelite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web application that allows users to monitor, track and create their own individual workouts in the gym. There are only 3 steps required for this app to design and build the perfect workout routine using the users inputs for their desired outcome.
+
+Steps:
+
+1. Select the workout split you would like to implement
+2. Select the muscles and muscle groups you would like to improve
+3. Select the type of workout you would like to implement
+
+Demo
+
+Once the options are selected, users can clikc the "Formulate" button and this app will automatically design and create a workout plan using the users inputs. The workouts havedetailed instructions on how to perform each exeercise including muscles targeted, reps and tempo, as well as a tracker where users can input how many sets they have completed.
+
+Demo
+
+Future features
+
+- Feature to store and save previous completed workouts 
+- Social media integration to share completed workouts 
+- Integrating Google Maps to show the nearest local gyms to work out
 
 Currently, two official plugins are available:
 
