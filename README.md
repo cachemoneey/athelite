@@ -25,6 +25,13 @@ Once the options are selected, users can click the "Formulate" button and this a
 <img width="1462" alt="Screenshot 2024-08-07 at 11 16 16" src="https://github.com/user-attachments/assets/c6cd25a5-640b-4ba2-b95c-f0fc303a0f8f">
 
 
+## Technologies
+
+- HTML
+- Tailwind.css
+- JavaScript
+- React.js
+
 ## Future features
 
 
